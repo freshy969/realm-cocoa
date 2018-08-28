@@ -7,7 +7,8 @@ x.x.x Release notes (yyyy-MM-dd)
 
 ### Enhancements
 
-* None.
+* Add support for pinning SSL certificates used for https and realms
+  connections by setting `RLMSyncManager.sharedManager.pinnedCertificatePaths`.
 
 ### Bugfixes
 
